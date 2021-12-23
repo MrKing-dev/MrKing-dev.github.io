@@ -15,9 +15,11 @@ My name is Greg King and I am a Technology Education teacher at Hamburg Area Hig
 ## Web Design and Javascript
 
 [Dice Breaker](www.grekinstudios.com/dice_breaker_online)
+
 *This was a website a created with basic HTML, CSS, and Javascript to support a roleplaying game I was running for my students. Being able to roll any amount of dice with a number of RPG-friendly options while working remotely was very useful for us (it can roll nearly a billion dice!)*
 
 [Pressure Regulator](www.grekinstudios.com/Pressure_Regulator)
+
 *I get chronic migraines, which are triggered by barometric pressure changes.  I have never found a site or app that shows those changes the way I wanted to see them, so I decided to create my own!  This project was create using intermediate HTML, CSS, and Javascript as I was learning in my courses on Codecademy.  I specifically wanted to learn how to do API calls and how to display data well.*
 
 
