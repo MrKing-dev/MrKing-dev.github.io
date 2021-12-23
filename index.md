@@ -14,9 +14,7 @@ My name is Greg King and I am a Technology Education teacher at Hamburg Area Hig
 
 
 
-<div align="center"> 
-  
-  ## Web Design and Javascript </div>
+## Web Design and Javascript
 
 [Dice Breaker](http://www.grekinstudios.com/dice_breaker_online)
 
@@ -27,30 +25,24 @@ My name is Greg King and I am a Technology Education teacher at Hamburg Area Hig
 *I get chronic migraines, which are triggered by barometric pressure changes.  I have never found a site or app that shows those changes the way I wanted to see them, so I decided to create my own!  This project was create using intermediate HTML, CSS, and Javascript as I was learning in my courses on Codecademy.  I specifically wanted to learn how to do API calls and how to display data well.*
 
 
-<div align="center"> 
-  
-  ## Other Github Projects </div>
+## Other Github Projects
 
 [Dice Breaker Discord Bot](https://github.com/MrKing-dev/dice-breaker)
 
-*This is the original version of my "Dice Breaker" design, intended to be used via Discord*
+*This is the original version of my "Dice Breaker" design, intended to be used via Discord.*
 
 
-<div align="center"> 
-  
-  ## Other Coding Projects </div>
+## Other Coding Projects
 
 *Coming soon*
 
-<div align="center"> 
-  
-  ## Grekin Studios on the Google Play Store </div>
+
+## Grekin Studios on the Google Play Store
 
 [Grekin Studios Android Applications](https://play.google.com/store/apps/dev?id=7281819562685950623)
 
-<div align="center"> 
-  
-  ## 3D Modeling Projects </div>
+
+## 3D Modeling Projects>
 
 *Coming soon*
 
