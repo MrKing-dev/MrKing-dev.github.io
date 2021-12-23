@@ -4,7 +4,7 @@ My name is Greg King and I am a Technology Education teacher at Hamburg Area Hig
 
 ## Certifications
 
-![unity certification badge](unity-certified-user-programmer (3).png)
+![unity certification badge](/assets/images/unity-certified-user-programmer (3).png)
 
 ## Web Design and Javascript
 
