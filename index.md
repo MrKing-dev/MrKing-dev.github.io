@@ -4,8 +4,7 @@ My name is Greg King and I am a Technology Education teacher at Hamburg Area Hig
 
 ## Certifications
 
-<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="ed67939f-59ec-4b0f-b85c-8b5e7d56de8d" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
-
+![
 
 ## Web Design and Javascript
 
