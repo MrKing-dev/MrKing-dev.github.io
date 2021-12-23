@@ -20,7 +20,7 @@ My name is Greg King and I am a Technology Education teacher at Hamburg Area Hig
 
 [Dice Breaker](http://www.grekinstudios.com/dice_breaker_online)
 
-*This was a website a created with basic HTML, CSS, and Javascript to support a roleplaying game I was running for my students. Being able to roll any amount of dice with a number of RPG-friendly options while working remotely was very useful for us (it can roll nearly a billion dice!)*
+*This was a website a created with basic HTML, CSS, and Javascript to support a roleplaying game I was running for my students. Being able to roll any amount of dice with a number of RPG-friendly options while working remotely was very useful for us (it can roll nearly a billion dice!).*
 
 [Pressure Regulator](https://www.grekinstudios.com/pressure_regulator/)
 
