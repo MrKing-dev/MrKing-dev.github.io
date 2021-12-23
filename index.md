@@ -45,4 +45,4 @@ My name is Greg King and I am a Technology Education teacher at Hamburg Area Hig
 
 ### Contact
 
-[grekin@hasdhawks.org](grekin@hasdhawks.org)
+[grekin@hasdhawks.org](mailto:grekin@hasdhawks.org)
