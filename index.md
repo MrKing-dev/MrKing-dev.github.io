@@ -1,4 +1,4 @@
-### Welcome to Grekin Studios!
+# Welcome to Grekin Studios!
 
 My name is Greg King and I am a Technology Education teacher at Hamburg Area High School, in Hamburg Pa.  I maintain this page to track and present my current and past projects.
 
@@ -17,6 +17,6 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 ## 3D Modeling Projects
 
 
-# Contact
+### Contact
 
 grekin@hasdhawks.org
