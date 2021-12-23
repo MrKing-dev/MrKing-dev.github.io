@@ -2,7 +2,9 @@
 
 My name is Greg King and I am a Technology Education teacher at Hamburg Area High School, in Hamburg Pa.  I maintain this page to track and present my current and past projects.
 
-<p align="center"> ## Certifications </p>
+<div align="center"> 
+  
+  ## Certifications </div>
 
 [![unity certification badge](assets/images/unity-cert.png)](https://www.credly.com/badges/41d1b1ee-ec9a-4a15-a458-040279eacbce/public_url) [![inventor certification badge](assets/images/autodesk-inventor-cert.png)](https://www.credly.com/badges/ed67939f-59ec-4b0f-b85c-8b5e7d56de8d/public_url) [![revit certification badge](assets/images/autodesk-revit-cert.png)](https://www.credly.com/badges/92542bdf-7f27-4e50-8b9b-6a8990a8b8d2/public_url)
 
