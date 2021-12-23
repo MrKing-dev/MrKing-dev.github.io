@@ -2,7 +2,7 @@
 
 My name is Greg King and I am a Technology Education teacher at Hamburg Area High School, in Hamburg Pa.  I maintain this page to track and present my current and past projects.
 
-<p align="center">## Certifications</p>
+<p align="center"> ## Certifications </p>
 
 [![unity certification badge](assets/images/unity-cert.png)](https://www.credly.com/badges/41d1b1ee-ec9a-4a15-a458-040279eacbce/public_url) [![inventor certification badge](assets/images/autodesk-inventor-cert.png)](https://www.credly.com/badges/ed67939f-59ec-4b0f-b85c-8b5e7d56de8d/public_url) [![revit certification badge](assets/images/autodesk-revit-cert.png)](https://www.credly.com/badges/92542bdf-7f27-4e50-8b9b-6a8990a8b8d2/public_url)
 
@@ -12,7 +12,7 @@ My name is Greg King and I am a Technology Education teacher at Hamburg Area Hig
 
 
 
-<p align="center">## Web Design and Javascript</p>
+<p align="center"> ## Web Design and Javascript </p>
 
 [Dice Breaker](http://www.grekinstudios.com/dice_breaker_online)
 
@@ -23,22 +23,22 @@ My name is Greg King and I am a Technology Education teacher at Hamburg Area Hig
 *I get chronic migraines, which are triggered by barometric pressure changes.  I have never found a site or app that shows those changes the way I wanted to see them, so I decided to create my own!  This project was create using intermediate HTML, CSS, and Javascript as I was learning in my courses on Codecademy.  I specifically wanted to learn how to do API calls and how to display data well.*
 
 
-<p align="center">## Other Github Projects</p>
+<p align="center"> ## Other Github Projects </p>
 
 [Dice Breaker Discord Bot](https://github.com/MrKing-dev/dice-breaker)
 
 *This is the original version of my "Dice Breaker" design, intended to be used via Discord*
 
 
-<p align="center">## Other Coding Projects</p>
+<p align="center"> ## Other Coding Projects </p>
 
 *Coming soon*
 
-<p align="center">## Grekin Studios on the Google Play Store</p>
+<p align="center"> ## Grekin Studios on the Google Play Store </p>
 
 [Grekin Studios Android Applications](https://play.google.com/store/apps/dev?id=7281819562685950623)
 
-<p align="center">## 3D Modeling Projects</p>
+<p align="center"> ## 3D Modeling Projects </p>
 
 *Coming soon*
 
