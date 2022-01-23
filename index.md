@@ -20,9 +20,9 @@ My name is Greg King and I am a Technology Education teacher at Hamburg Area Hig
 
 *This was a website a created with basic HTML, CSS, and Javascript to support a roleplaying game I was running for my students. Being able to roll any amount of dice with a number of RPG-friendly options while working remotely was very useful for us (it can roll nearly a billion dice!).*
 
-[Pressure Regulator](https://www.grekinstudios.com/pressure_regulator/)
+[Luft Duck](https://www.grekinstudios.com/luft_duck/)
 
-*I get chronic migraines, which are triggered by barometric pressure changes.  I have never found a site or app that shows those changes the way I wanted to see them, so I decided to create my own!  This project was create using intermediate HTML, CSS, and Javascript as I was learning in my courses on Codecademy.  I specifically wanted to learn how to do API calls and how to display data well.*
+*I get chronic migraines, which are triggered by barometric pressure changes.  I have never found a site or app that shows those changes the way I wanted to see them, so I decided to create my own!  This project was create using intermediate HTML, CSS, and Javascript as I was learning in my courses on Codecademy.  I specifically wanted to learn how to do API calls and how to display data well. --Note: This application was previously published under a different name, but I shared it on a forum and it received so much attention that I was locked out of my APIs for a time. I have since changed the name and made the repository private (the name comes from the German "Luftdruck" which means simply "Barometric Pressure."*
 
 
 ## Other Github Projects
@@ -31,10 +31,15 @@ My name is Greg King and I am a Technology Education teacher at Hamburg Area Hig
 
 *This is the original version of my "Dice Breaker" design, intended to be used via Discord.*
 
+[Dice Core (C#)](https://github.com/MrKing-dev/Dice_Core_CSharp)
+
+*This is a refactoring of my Dice Breaker site, done in C# in preparation for learning Blazor Webassembly*
+
+
 
 ## Other Coding Projects
 
-*Coming soon*
+*Coming Soon!*
 
 
 ## Grekin Studios on the Google Play Store
