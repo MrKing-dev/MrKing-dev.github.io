@@ -30,29 +30,15 @@ My name is Greg King and I am a Technology Education teacher at Hamburg Area Hig
 
 ## Other Github Projects
 
-[Dice Breaker Discord Bot](https://github.com/MrKing-dev/dice-breaker)
+[My public Github Repositories](https://github.com/MrKing-dev)
 
-*This is the original version of my "Dice Breaker" design, intended to be used via Discord.*
-
-[Dice Core (C#)](https://github.com/MrKing-dev/Dice_Core_CSharp)
-
-*This is a refactoring of my Dice Breaker site, done in C# in preparation for learning Blazor Webassembly*
-
-
-
-## Other Coding Projects
-
-*Coming Soon!*
+*I have created projects here in C#, Javascript, HTML, CSS, and Flutter/ Dart*
 
 
 ## Grekin Studios on the Google Play Store
 
 [Grekin Studios Android Applications](https://play.google.com/store/apps/dev?id=7281819562685950623)
 
-
-## 3D Modeling Projects>
-
-*Coming soon*
 
 
 ### Contact
