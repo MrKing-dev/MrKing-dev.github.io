@@ -10,6 +10,7 @@ My name is Greg King and I am a Technology Education teacher at Hamburg Area Hig
 
 ### Codecademy Certificates
 
+[Introduction to Cybersecurity](https://www.codecademy.com/profiles/thegrekin/certificates/de0bd5c89521d004ce449a86b0ad3319)
 [Learn C#](https://www.codecademy.com/profiles/thegrekin/certificates/65f0ff88f4fc58e0536b3b51648dff24) | [Learn Javascript](https://www.codecademy.com/profiles/thegrekin/certificates/705dcb15de0da4dd9d9fc4f3274b430e) | [Learn HTML](https://www.codecademy.com/profiles/thegrekin/certificates/9eb0741e5ebef1f9f58a53bfac67d3a7) | [Learn CSS](https://www.codecademy.com/profiles/thegrekin/certificates/9a5bb1fc45b4281af1fffec93b0aaf05) | [Learn Node.js](https://www.codecademy.com/profiles/thegrekin/certificates/240305d50b925c17868f1ac7a21a3261) 
 
 ### Microsoft Learn Profile
