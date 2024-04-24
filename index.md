@@ -4,6 +4,6 @@ Grekin Studios is a custom 3D printing and 3D design service company. We take pr
   
 ## Contact
 
-Please email us at [sales@grekinstudios.com](mailto:sales@grekingstudios.com for any enquiry regarding our services.  You may also reach us via call or text at 570-391-4388.
+Please email us at [sales@grekinstudios.com](mailto:sales@grekingstudios.com) for any enquiry regarding our services.  You may also reach us via call or text at 570-391-4388.
 
 
