@@ -4,8 +4,8 @@ Grekin Studios is a custom 3D printing and 3D design service company. We take pr
   
 ## Contact
 
-grekin82@gmail.com 
-484-553-8515 
-https://www.etsy.com/shop/grekinstudios 
-Hamburg, PA
+grekin82@gmail.com  
+484-553-8515  
+https://www.etsy.com/shop/grekinstudios  
+Hamburg, PA  
 
